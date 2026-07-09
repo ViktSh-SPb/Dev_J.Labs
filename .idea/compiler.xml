@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="J110.Lab1-Shvidkiy" />
         <module name="J110.Lab2-Shvidkiy" />
         <module name="J110.Lab3-Shvidkiy" />
+        <module name="J110.Lab1-Shvidkiy" />
+        <module name="J110.Lab4-Shvidkiy" />
       </profile>
     </annotationProcessing>
   </component>
